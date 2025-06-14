@@ -32,7 +32,7 @@ EduCase/
 ## API Endpoints
 ### Base URL
 ```
-URL/api
+URL/api/v1
 ```
 
 ### 1. Add a School
